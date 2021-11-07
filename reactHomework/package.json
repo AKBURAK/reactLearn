@@ -1,0 +1,14 @@
+{
+  "name": "reacthw1",
+  "version": "1.0.0",
+  "description": "this folder created for react patika homeworks ",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
